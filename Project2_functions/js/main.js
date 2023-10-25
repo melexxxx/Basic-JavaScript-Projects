@@ -12,7 +12,6 @@ function addition_Function() { // Create addition function
 //SUBTRACTIONS
 
 function subtraction_Function() { // Create substracion function
-    var addition=2+2;
     var SUBTRACTION=5-2;
     document.getElementById("Math2").innerHTML="5-2="+SUBTRACTION;// Return answer
 
@@ -22,7 +21,6 @@ function subtraction_Function() { // Create substracion function
 //MULTIPLICATIONS
 
 function multiplications_Function() { // Create multiplication function
-    var addition=2+2;
     var multiplication=2*2;
     document.getElementById("Math3").innerHTML="2*2="+multiplication;// Return answer
 
@@ -32,7 +30,6 @@ function multiplications_Function() { // Create multiplication function
 //Divsion
 
 function division_Function() { // Create divison function
-    var addition=2+2;
     var multiplication=10/2;
     document.getElementById("Math4").innerHTML="10/2="+multiplication;// Return answer
 
